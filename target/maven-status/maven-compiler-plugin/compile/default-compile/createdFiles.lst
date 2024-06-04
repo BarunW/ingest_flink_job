@@ -1,0 +1,8 @@
+consumer/App.class
+models/UserTimeSpent.class
+models/UserInteractionData.class
+consumer/App$1.class
+sink/SinkFactory.class
+sink/Sink.class
+consumer/App$2.class
+sink/JdbcUserTimeSpentSink.class

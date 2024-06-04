@@ -1,0 +1,6 @@
+/home/dbarun/IUDX_ASSIGNMENT/IngestorJob/src/main/java/consumer/App.java
+/home/dbarun/IUDX_ASSIGNMENT/IngestorJob/src/main/java/models/UserInteractionData.java
+/home/dbarun/IUDX_ASSIGNMENT/IngestorJob/src/main/java/models/UserTimeSpent.java
+/home/dbarun/IUDX_ASSIGNMENT/IngestorJob/src/main/java/sink/JdbcUserTimeSpentSink.java
+/home/dbarun/IUDX_ASSIGNMENT/IngestorJob/src/main/java/sink/Sink.java
+/home/dbarun/IUDX_ASSIGNMENT/IngestorJob/src/main/java/sink/SinkFactory.java
